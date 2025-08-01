@@ -75,6 +75,10 @@ For Software:
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
+<video width="640" height="360" controls>
+    <source src="https://github.com/user-attachments/assets/9207e7bb-9636-4d28-ac77-864415c69c49" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 [Screencast from 2025-08-02 04-47-43.webm](https://github.com/user-attachments/assets/9207e7bb-9636-4d28-ac77-864415c69c49)
 
 # Additional Demos
