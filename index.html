@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Exploration Game</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <div id="gameContainer">
+        <div id="loading">
+            <div class="loading-spinner"></div>
+            Loading 3D World...
+        </div>
+
+        <div id="ui" style="display: none;">
+            <h3 style="margin: 0 0 10px 0;">🎮 Explorer Stats</h3>
+            <div class="stat-bar">
+                <span>❤️ Health:</span>
+                <div class="bar">
+                    <div class="bar-fill health" id="healthBar"></div>
+                </div>
+                <span id="healthText">100</span>
+            </div>
+            <div class="stat-bar">
+                <span>⚡ Energy:</span>
+                <div class="bar">
+                    <div class="bar-fill energy" id="energyBar"></div>
+                </div>
+                <span id="energyText">100</span>
+            </div>
+            <div class="stat-bar">
+                <span>⭐ XP:</span>
+                <div class="bar">
+                    <div class="bar-fill experience" id="xpBar"></div>
+                </div>
+                <span id="xpText">0</span>
+            </div>
+            <div style="margin-top: 10px; font-size: 12px;">
+                <div>Position: <span id="position">0, 0, 0</span></div>
+                <div>Objects Found: <span id="objectsFound">0</span></div>
+            </div>
+        </div>
+
+        <div id="crosshair"></div>
+
+        <div id="instructions" style="display: none;">
+            <h4 style="margin: 0 0 10px 0;">🎯 Controls</h4>
+            <div class="instruction-line"><strong>WASD:</strong> Move around</div>
+            <div class="instruction-line"><strong>Mouse:</strong> Look around</div>
+            <div class="instruction-line"><strong>Space:</strong> Jump</div>
+            <div class="instruction-line"><strong>Shift:</strong> Run (uses energy)</div>
+            <div class="instruction-line"><strong>E:</strong> Interact with objects</div>
+            <div class="instruction-line"><strong>C:</strong> Crouch</div>
+            <br>
+            <div style="font-size: 11px; opacity: 0.8;">
+                Explore the world and find hidden treasures!
+            </div>
+        </div>
+
+        <div id="messages"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
