@@ -1,23 +1,22 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# WHY AM I HERE 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: CodeBlooded
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Bibin - MBCCET
+- Member 2: FEBIN - MBCCET
 
 ### Project Description
-[2-3 lines about what your project does]
+In this oddly enchanting 3D exploration game, you'll wander aimlessly through meadows filled with unnecessarily energetic butterflies while reading randomly changing billboard messages that may or may not make sense. Collect glowing orbs because they're there, and find treasure chests that somehow restore your health (don't ask why)
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+You're looking at a perfectly normal 3D exploration game that has mysteriously gained sentience and decided it needs an existential crisis. 
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
