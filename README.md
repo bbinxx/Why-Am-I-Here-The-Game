@@ -60,12 +60,12 @@ code .
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+
 *Add caption explaining what this shows*
 <img width="2768" height="1493" alt="image" src="https://github.com/user-attachments/assets/9873e1d7-a7bb-4b8a-b657-d16d878376d9" />
 
 
-![Screenshot2](Add screenshot 2 here with proper name)
+
 *Add caption explaining what this shows*
 <img width="2768" height="1493" alt="image" src="https://github.com/user-attachments/assets/e5117c1c-ea2e-464b-b327-b72c5d5dea59" />
 
@@ -73,13 +73,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-<video width="640" height="360" controls>
-    <source src="https://github.com/user-attachments/assets/9207e7bb-9636-4d28-ac77-864415c69c49" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-[Screencast from 2025-08-02 04-47-43.webm](https://github.com/user-attachments/assets/9207e7bb-9636-4d28-ac77-864415c69c49)
+https://github.com/user-attachments/assets/9207e7bb-9636-4d28-ac77-864415c69c49
 
 # Additional Demos
 [Add any extra demo materials/links]
