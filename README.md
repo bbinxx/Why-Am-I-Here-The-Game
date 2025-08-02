@@ -46,7 +46,7 @@ Chrome DevTools
 For Software:
 # Installation
 # Clone the repository
-git clone https://github.com/yourusername/why-am-i-here.git
+git clone https://github.com/bbinxx/why-am-i-here.git
 
 # Navigate to project directory
 cd why-am-i-here
